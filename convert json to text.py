@@ -1,3 +1,5 @@
+#convert json from supervisely to coco text format 
+
 # code 
 import glob
 import json
